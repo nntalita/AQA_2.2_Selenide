@@ -16,6 +16,7 @@ repositories {
 }
 
 dependencies {
+    implementation 'org.projectlombok:lombok:1.18.20'
     testImplementation 'org.junit.jupiter:junit-jupiter:5.8.2'
     testImplementation 'com.codeborne:selenide:5.19.0'
 }
